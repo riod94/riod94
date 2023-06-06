@@ -28,7 +28,8 @@ I am a Software Developer from Indonesia, living in Tembung and currently workin
 
 ---
 
+
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=riyos94&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyos94&layout=compact" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=riyos94&count_private=true&include_all_commits=true&theme=nord" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyos94&layout=compact&theme=nord" />
 </div>
