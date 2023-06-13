@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-I am a Software Engineer from Medan, Indonesia. I'm currently working full-time remotely at ![Nusanet](https://www.nusa.net.id) who specialized as a ![Nusawork](https://nusawork.com) Backend to handle the payroll module. And also has some ability to code in Fullstack on Part-time/Freelance.
+I am a Software Engineer from Medan, Indonesia. I'm currently working full-time remotely at [Nusanet](https://www.nusa.net.id) who specialized as a [Nusawork](https://nusawork.com) Backend to handle the payroll module. And also has some ability to code in Fullstack on Part-time/Freelance.
 
 - 🔭 I’m currently working on anything 😉
 - 🌱 I’m currently learning Python
