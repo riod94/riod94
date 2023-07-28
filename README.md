@@ -30,6 +30,5 @@ I am a Software Engineer from Medan, Indonesia. I'm currently working full-time 
 
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=riyos94&count_private=true&include_all_commits=true&theme=nord" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyos94&layout=compact&theme=nord" />
 </div>
