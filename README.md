@@ -2,10 +2,10 @@
 
 I am a Software Engineer from Medan, Indonesia. I'm currently working full-time remotely at [Nusanet](https://www.nusa.net.id) who specialized as a [Nusawork](https://nusawork.com) Backend to handle the payroll module. And also has some ability to code in Fullstack on Part-time/Freelance.
 
-- 🔭 I’m currently working on anything 😉
-- 🌱 I’m currently learning Go
+- 🔭 I'm currently working on a microservice template using hono 😉
+- 🌱 I’m currently learning Hono
 - 🤝 I'm looking for more experience with projects and part time opportunities in Web Development or App Development
-- 💬 Ask me about Laravel/Javascript/React/React-Native
+- 💬 Ask me about Laravel/Javascript/Typescript/React/React-Native
 - 📫 How to reach me: [Connect with me](https://tebar.link/owner)
 - ⚡ Fun fact:  I ❤️ Game
 
